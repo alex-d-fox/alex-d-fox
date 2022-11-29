@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alex-d-fox
 - 👀 I’m interested in Python, Swift, 3D Printing, Cryptography
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on HID Devices, 3D Printer Design
 - 📫 How to reach me alex.d.fox@icloud.com
